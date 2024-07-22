@@ -1,6 +1,6 @@
 {
-    "Text": "Wonderful!, Welcome world!",
+    "Text": "Wonderful!, Hello world!",
     "Color": [255, 170, 0],
-    "BroadcastId": 11,
+    "BroadcastId": 13,
     "Shown": true
 }
