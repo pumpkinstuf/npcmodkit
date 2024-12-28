@@ -1,0 +1,34 @@
+newmtl Glitched1Mtl
+Material Color
+Ka 0.00715504 0.018913 0.0315514
+Kd 0.00715504 0.018913 0.0315514
+Ks 0.000448943 0.0011867 0.0019797 
+
+d 1
+
+Ns 0
+
+newmtl Glitched3Mtl
+Material Color
+Ka 1 0.0891935 0.215764
+Kd 1 0.0891935 0.215764
+Ks 0.0901961 0.00804491 0.0194611 
+
+d 1
+
+Ns 0
+
+newmtl Glitched6Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Glitched6_diff.png
+map_Kd Glitched6_diff.png
+map_d Glitched6_diff.png
+

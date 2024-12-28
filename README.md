@@ -1,2 +1,3 @@
-# BetterNpcs Modkit
-### A Build Island Modkit by pumpkin
+# Npcs Modkit
+>> A Build Island Modkit
+Docs coming soon!

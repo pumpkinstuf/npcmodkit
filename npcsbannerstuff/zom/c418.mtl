@@ -1,0 +1,28 @@
+newmtl Classiczombie1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0509804 0.0509804 0.0509804 
+
+d 1
+
+Ns 61
+
+map_Ka Classiczombie1_diff.png
+map_Kd Classiczombie1_diff.png
+map_d Classiczombie1_diff.png
+
+newmtl Classiczombie4Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0509804 0.0509804 0.0509804 
+
+d 1
+
+Ns 61
+
+map_Ka Classiczombie4_diff.png
+map_Kd Classiczombie4_diff.png
+map_d Classiczombie4_diff.png
+

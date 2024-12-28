@@ -1,0 +1,24 @@
+newmtl Modelplate1Mtl
+Material Color
+Ka 0.103634 0.329729 0.0697271
+Kd 0.103634 0.329729 0.0697271
+Ks 0.00650253 0.0206889 0.00437503 
+
+d 1
+
+Ns 0
+
+newmtl Modelplate2Mtl
+Material Color
+Ka 0.103634 0.329729 0.0697271
+Kd 0.103634 0.329729 0.0697271
+Ks 0.00650253 0.0206889 0.00437503 
+
+d 0.803922
+
+Ns 0
+
+map_Ka Modelplate2_diff.png
+map_Kd Modelplate2_diff.png
+map_d Modelplate2_diff.png
+

@@ -1,0 +1,14 @@
+newmtl Humanoidrootpart1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0901961 0.0901961 0.0901961 
+
+d 1
+
+Ns 0
+
+map_Ka Humanoidrootpart1_diff.png
+map_Kd Humanoidrootpart1_diff.png
+map_d Humanoidrootpart1_diff.png
+
