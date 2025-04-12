@@ -1,15 +1,18 @@
 # Npcs Modkit
+![Npcs Logo](/Banner/npcsbanner.png "Npcs Logo")
 Build Island Modkit *no rojo?!*
 
 ## Releases
 Releases and Experimental builds can be found in [Releases](/Releases)
+
+[Latest Build](/Releases/6.07/)
 
 There is additional modkit addon information in the RBXM files that you can use to create NPC addons.
 
 ## Miscellanous Modkit Assets
 Icons generated for blocks can be found in [Icons](/Icons)
 
-The NPC Modkit blend thumbnail [Banner](/Banner)
+The NPC Modkit blend thumbnail can be found in [Banner](/Banner)
 
 # Acknowledgements
 The NPC Modkit utilises modules from other sources:
