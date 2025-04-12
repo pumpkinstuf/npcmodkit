@@ -5,7 +5,7 @@ Build Island Modkit *no rojo?!*
 ## Releases
 Releases and Experimental builds can be found in [Releases](/Releases)
 
-[Latest Build](/Releases/6.07/)
+[Latest Build](/Releases/6.07/npcs-6.07-build3.rbxm)
 
 There is additional modkit addon information in the RBXM files that you can use to create NPC addons.
 
