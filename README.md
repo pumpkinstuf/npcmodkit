@@ -1,3 +1,8 @@
+# ARCHIVAL NOTICE
+I have decided to archive the Npcs modkit since the actual modkit in Build Island will most likely not be recieving anymore actual updates, this repository will now serve its place as a resource for any future programmers that want to use it.
+
+Thank you to Build Island for providing me with this chance to develop my programming skills and befriend new people. Thats all from me. 👋
+
 # Npcs Modkit
 ![Npcs Logo](/Banner/npcsbanner.png "Npcs Logo")
 Build Island Modkit *no rojo?!*
